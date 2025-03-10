@@ -1,0 +1,47 @@
+{
+  "name": "Alumni Hall Second Floor",
+  "image": "AlumniHall/AHSecondFloor.png",
+  "sizeX": 1500,
+  "sizeY": 907,
+  "floorNum": 2,
+  "mapID": 11,
+  "Default":{
+    "name": "Default",
+    "POIList": [
+    ]
+  },
+  "Accessibility":{
+    "name": "Accessibility",
+    "POIList": [
+      {"vis":true,"name":"Exit 6 (AH 2)","x":435,"y":209,"fav":false,"mapID":11,"layer":"Accessibility","desc":"Navigation: Exit 6"},
+      {"vis":true,"name":"Exit 7 (AH 2)","x":508,"y":188,"fav":false,"mapID":11,"layer":"Accessibility","desc":"Navigation: Exit 7"},
+      {"vis":true,"name":"Exit 8 (AH 2)","x":540,"y":174,"fav":false,"mapID":11,"layer":"Accessibility","desc":"Navigation: Exit 8"},
+      {"vis":true,"name":"Elevator A (AH 2)","x":586,"y":205,"fav":false,"mapID":11,"layer":"Accessibility","desc":"Navigation: Elevator"},
+      {"vis":true,"name":"Stairwell 3 (AH 2)","x":376,"y":226,"fav":false,"mapID":11,"layer":"Accessibility","desc":"Navigation: Staircase 3"},
+      {"vis":true,"name":"Stairwell 4 (AH 2)","x":375,"y":720,"fav":false,"mapID":11,"layer":"Accessibility","desc":"Navigation: Staircase 4"},
+      {"vis":true,"name":"Stairwell 1 (AH 2)","x":813,"y":829,"fav":false,"mapID":11,"layer":"Accessibility","desc":"Navigation: Staircase 1"},
+      {"vis":true,"name":"Stairwell 2 (AH 2)","x":801,"y":116,"fav":false,"mapID":11,"layer":"Accessibility","desc":"Navigation: Staircase 2"},
+      {"vis":true,"name":"Stairwell 5 (AH 2)","x":764,"y":152,"fav":false,"mapID":11,"layer":"Accessibility","desc":"Navigation: Staircase 5"}
+    ]
+  },
+  "Classrooms":{
+    "name": "Classrooms",
+    "POIList": [
+    ]
+  },
+  "Washrooms":{
+    "name": "Washrooms",
+    "POIList": [
+    ]
+  },
+  "Eateries":{
+    "name": "Eateries",
+    "POIList": [
+    ]
+  },
+  "Custom":{
+    "name": "Custom",
+    "POIList": [
+    ]
+  }
+}

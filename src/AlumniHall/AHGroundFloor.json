@@ -1,0 +1,46 @@
+{
+  "name": "Alumni Hall Ground Floor",
+  "image": "AlumniHall/AHGroundFloor.png",
+  "sizeX": 1500,
+  "sizeY": 907,
+  "floorNum": 0,
+  "mapID": 9,
+  "Default":{
+    "name": "Default",
+    "POIList": [
+    ]
+  },
+  "Accessibility":{
+    "name": "Accessibility",
+    "POIList": [
+      {"vis":true,"name":"Elevator A (AH G)","x":563,"y":213,"fav":false,"mapID":9,"layer":"Accessibility","desc":"Navigation: Elevator"},
+      {"vis":true,"name":"Stairwell 3 (AH G)","x":342,"y":241,"fav":false,"mapID":9,"layer":"Accessibility","desc":"Navigation: Staircase 3"},
+      {"vis":true,"name":"Elevator A (AH G)","x":565,"y":214,"fav":false,"mapID":9,"layer":"Accessibility","desc":"Navigation: Elevator"},
+      {"vis":true,"name":"Stairwell 4 (AH G)","x":348,"y":722,"fav":false,"mapID":9,"layer":"Accessibility","desc":"Navigation: Staircase 4"},
+      {"vis":true,"name":"Stairwell 1 (AH G)","x":789,"y":844,"fav":false,"mapID":9,"layer":"Accessibility","desc":"Navigation: Staircase 1"},
+      {"vis":true,"name":"Stairwell 2 (AH G)","x":783,"y":126,"fav":false,"mapID":9,"layer":"Accessibility","desc":"Navigation: Staircase 2"}
+    ]
+  },
+  "Classrooms":{
+    "name": "Classrooms",
+    "POIList": [
+    ]
+  },
+  "Washrooms":{
+    "name": "Washrooms",
+    "POIList": [
+      {"vis":true,"name":"Washroom (AH 12)","x":798,"y":699,"fav":false,"mapID":9,"layer":"Washrooms","desc":"Men's Washroom\nNON-ACCESSIBLE"},
+      {"vis":true,"name":"Washroom (AH 13)","x":814,"y":655,"fav":false,"mapID":9,"layer":"Washrooms","desc":"Women's Washroom\nNON-ACCESSIBLE"}
+    ]
+  },
+  "Eateries":{
+    "name": "Eateries",
+    "POIList": [
+    ]
+  },
+  "Custom":{
+    "name": "Custom",
+    "POIList": [
+    ]
+  }
+}

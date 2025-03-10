@@ -1,0 +1,9 @@
+{
+  "name": "Alumni Hall",
+  "id": "AlumniHall",
+  "maps":[
+    {"address": "AlumniHall/AHGroundFloor.json"},
+    {"address": "AlumniHall/AHFirstFloor.json"},
+    {"address": "AlumniHall/AHSecondFloor.json"}
+  ]
+}

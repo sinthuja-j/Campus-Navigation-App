@@ -1,0 +1,53 @@
+{
+  "name": "Alumni Hall First Floor",
+  "image": "AlumniHall/AHFirstFloor.png",
+  "sizeX": 1500,
+  "sizeY": 907,
+  "floorNum": 1,
+  "mapID": 10,
+  "Default":{
+    "name": "Default",
+    "POIList": [
+    ]
+  },
+  "Accessibility":{
+    "name": "Accessibility",
+    "POIList": [
+      {"vis":true,"name":"Elevator A (AH 1)","x":565,"y":213,"fav":false,"mapID":10,"layer":"Accessibility","desc":"Navigation: Elevator"},
+      {"vis":true,"name":"Stairwell 1 (AH 1)","x":749,"y":838,"fav":false,"mapID":10,"layer":"Accessibility","desc":"Navigation: Staircase 1"},
+      {"vis":true,"name":"Exit 2 (AH 1)","x":765,"y":871,"fav":false,"mapID":10,"layer":"Accessibility","desc":"Navigation: Exit 2"},
+      {"vis":true,"name":"Exit 1 (AH 1)","x":884,"y":489,"fav":false,"mapID":10,"layer":"Accessibility","desc":"Main Entrance"},
+      {"vis":true,"name":"Stairwell 2 (AH 1)","x":761,"y":132,"fav":false,"mapID":10,"layer":"Accessibility","desc":"Navigation: Staircase 2"},
+      {"vis":true,"name":"Exit 9 (AH 1)","x":707,"y":103,"fav":false,"mapID":10,"layer":"Accessibility","desc":"Navigation: Exit 9"},
+      {"vis":true,"name":"Stairwell 4 (AH 1)","x":352,"y":723,"fav":false,"mapID":10,"layer":"Accessibility","desc":"Navigation: Staircase 4"},
+      {"vis":true,"name":"Stairwell 3 (AH 1)","x":343,"y":229,"fav":false,"mapID":10,"layer":"Accessibility","desc":"Navigation: Staircase 3"}
+    ]
+  },
+  "Classrooms":{
+    "name": "Classrooms",
+    "POIList": [
+      {"vis":true,"name":"Classroom (AH 101)","x":779,"y":764,"fav":false,"mapID":10,"layer":"Classrooms","desc":"Lecture Hall: AH 101"}
+    ]
+  },
+  "Washrooms":{
+    "name": "Washrooms",
+    "POIList": [
+      {"vis":true,"name":"Washroom (AH 108)","x":682,"y":304,"fav":false,"mapID":10,"layer":"Washrooms","desc":"Men's Washroom\nNON-ACCESSIBLE"},
+      {"vis":true,"name":"Washroom (AH 103)","x":694,"y":654,"fav":false,"mapID":10,"layer":"Washrooms","desc":"Women's Washroom\nNON-ACCESSIBLE"},
+      {"vis":true,"name":"Washroom (AH 102)","x":443,"y":447,"fav":false,"mapID":10,"layer":"Washrooms","desc":"Men's Washroom\nNON-ACCESSIBLE"},
+      {"vis":true,"name":"Washroom (AH 109)","x":713,"y":270,"fav":false,"mapID":10,"layer":"Custom","desc":"Unisex Washroom\nBARRIER FREE"},
+      {"vis":true,"name":"Washroom (AH 103)","x":718,"y":674,"fav":false,"mapID":10,"layer":"Custom","desc":"Unisex Washroom\nBARRIER FREE"}
+    ]
+  },
+  "Eateries":{
+    "name": "Eateries",
+    "POIList": [
+    ]
+  },
+  "Custom":{
+    "name": "Custom",
+    "POIList": [
+      
+    ]
+  }
+}
