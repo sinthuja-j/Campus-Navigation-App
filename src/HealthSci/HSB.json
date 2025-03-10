@@ -1,0 +1,10 @@
+{
+  "name": "Health Sciences Building",
+  "id": "HealthSci",
+  "maps":[
+    {"address": "HealthSci/HSBGroundFloor.json"},
+    {"address": "HealthSci/HSBSecondFloor.json"},
+    {"address": "HealthSci/HSBThirdFloor.json"},
+    {"address": "HealthSci/HSBFourthFloor.json"}
+  ]
+}

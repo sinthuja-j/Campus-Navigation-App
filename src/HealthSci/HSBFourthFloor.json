@@ -1,0 +1,45 @@
+{
+  "name": "Health Sciences Building Fourth Floor",
+  "image": "HealthSci/HSBFourthFloor.png",
+  "sizeX": 1500,
+  "sizeY": 907,
+  "floorNum": 4,
+  "mapID": 8,
+  "Default":{
+    "name": "Default",
+    "POIList": [
+    ]
+  },
+  "Accessibility":{
+    "name": "Accessibility",
+    "POIList": [
+      {"vis":true,"name":"Stairwell 3 (HSB 4)","x":828,"y":343,"fav":false,"mapID":8,"layer":"Accessibility","desc":"Navigation: Staircase 3"},
+      {"vis":true,"name":"Stairwell 2 (HSB 4)","x":197,"y":535,"fav":false,"mapID":8,"layer":"Accessibility","desc":"Navigation: Staircase 2"},
+      {"vis":true,"name":"Elevator 1 (HSB 4)","x":797,"y":496,"fav":false,"mapID":8,"layer":"Accessibility","desc":"Navigation: Elevator"},
+      {"vis":true,"name":"Elevator 2 (HSB 4)","x":833,"y":503,"fav":false,"mapID":8,"layer":"Accessibility","desc":"Navigation: Elevator"}
+    ]
+  },
+  "Classrooms":{
+    "name": "Classrooms",
+    "POIList": [
+    ]
+  },
+  "Washrooms":{
+    "name": "Washrooms",
+    "POIList": [
+      {"vis":true,"name":"Washroom (HSB 423)","x":818,"y":395,"fav":false,"mapID":8,"layer":"Washrooms","desc":"Men's Washroom\nNON-ACCESSIBLE"},
+      {"vis":true,"name":"Washroom (HSB 420)","x":823,"y":459,"fav":false,"mapID":8,"layer":"Washrooms","desc":"Women's Washroom\nNON-ACCESSIBLE"},
+      {"vis":true,"name":"Washroom (HSB 422)","x":868,"y":445,"fav":false,"mapID":8,"layer":"Washrooms","desc":"Unisex Washroom\nBARRIER FREE"}
+    ]
+  },
+  "Eateries":{
+    "name": "Eateries",
+    "POIList": [
+    ]
+  },
+  "Custom":{
+    "name": "Custom",
+    "POIList": [
+    ]
+  }
+}

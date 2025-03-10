@@ -1,0 +1,50 @@
+{
+  "name": "Health Sciences Building Second Floor",
+  "image": "HealthSci/HSBSecondFloor.png",
+  "sizeX": 1500,
+  "sizeY": 907,
+  "floorNum": 2,
+  "mapID": 6,
+  "Default":{
+    "name": "Default",
+    "POIList": [
+    ]
+  },
+  "Accessibility":{
+    "name": "Accessibility",
+    "POIList": [
+      {"vis":true,"name":"Stairwell 7 (HSB 2)","x":920,"y":664,"fav":false,"mapID":6,"layer":"Accessibility","desc":"Navigation: Staircase 7"},
+      {"vis":true,"name":"Stairwell 1 (HSB 2)","x":837,"y":670,"fav":false,"mapID":6,"layer":"Accessibility","desc":"Navigation: Staircase 1"},
+      {"vis":true,"name":"Elevator 2 (HSB 2)","x":837,"y":489,"fav":false,"mapID":6,"layer":"Accessibility","desc":"Navigation: Elevator"},
+      {"vis":true,"name":"Elevator 1 (HSB 2)","x":798,"y":495,"fav":false,"mapID":6,"layer":"Accessibility","desc":"Navigation: Elevator"},
+      {"vis":true,"name":"Stairwell 3 (HSB 2)","x":828,"y":344,"fav":false,"mapID":6,"layer":"Accessibility","desc":"Navigation: Staircase 3"},
+      {"vis":true,"name":"Stairwell 6 (HSB 2)","x":941,"y":280,"fav":false,"mapID":6,"layer":"Accessibility","desc":"Navigation: Staircase 6"},
+      {"vis":true,"name":"Stairwell 2 (HSB 2)","x":174,"y":517,"fav":false,"mapID":6,"layer":"Accessibility","desc":"Navigation: Staircase 2"}
+    ]
+  },
+  "Classrooms":{
+    "name": "Classrooms",
+    "POIList": [
+      {"vis":true,"name":"Classroom (HSB 236)","x":1043,"y":375,"fav":false,"mapID":6,"layer":"Classrooms","desc":"Lecture Hall: HSB 236"},
+      {"vis":true,"name":"Classroom (HSB 240)","x":1046,"y":542,"fav":false,"mapID":6,"layer":"Classrooms","desc":"Lecture Hall: HSB 240"}
+    ]
+  },
+  "Washrooms":{
+    "name": "Washrooms",
+    "POIList": [
+      {"vis":true,"name":"Washroom (HSB 228)","x":842,"y":450,"fav":false,"mapID":6,"layer":"Washrooms","desc":"Women's Washroom\nBARRIER FREE"},
+      {"vis":true,"name":"Washroom (HSB 226)","x":826,"y":389,"fav":false,"mapID":6,"layer":"Washrooms","desc":"Men's Washroom\nBARRIER FREE"},
+      {"vis":true,"name":"Washroom (HSB 200P)","x":633,"y":567,"fav":false,"mapID":6,"layer":"Washrooms","desc":"Unisex Washroom\nBARRIER FREE"}
+    ]
+  },
+  "Eateries":{
+    "name": "Eateries",
+    "POIList": [
+    ]
+  },
+  "Custom":{
+    "name": "Custom",
+    "POIList": [
+    ]
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "name": "Health Sciences Building Ground Floor",
+  "image": "HealthSci/HSBGroundFloor.png",
+  "sizeX": 1500,
+  "sizeY": 907,
+  "floorNum": 0,
+  "mapID": 5,
+  "Default":{
+    "name": "Default",
+    "POIList": [
+    ]
+  },
+  "Accessibility":{
+    "name": "Accessibility",
+    "POIList": [
+      {"vis":true,"name":"Exit 4 (HSB G)","x":144,"y":521,"fav":false,"mapID":5,"layer":"Accessibility","desc":"Navigation: Exit 4"},
+      {"vis":true,"name":"Exit 3 (HSB G)","x":190,"y":577,"fav":false,"mapID":5,"layer":"Accessibility","desc":"Navigation: Exit 3"},
+      {"vis":true,"name":"Exit 2A (HSB G)","x":612,"y":703,"fav":false,"mapID":5,"layer":"Accessibility","desc":"Navigation: Exit 2A"},
+      {"vis":true,"name":"Exit 2 (HSB G)","x":786,"y":743,"fav":false,"mapID":5,"layer":"Accessibility","desc":"Navigation: Exit 2"},
+      {"vis":true,"name":"Exit 1 (HSB G)","x":941,"y":709,"fav":false,"mapID":5,"layer":"Accessibility","desc":"Navigation: Exit 1"},
+      {"vis":true,"name":"Elevator 1 (HSB G)","x":799,"y":492,"fav":false,"mapID":5,"layer":"Accessibility","desc":"Navigation: Elevator"},
+      {"vis":true,"name":"Elevator 2 (HSB G)","x":839,"y":486,"fav":false,"mapID":5,"layer":"Accessibility","desc":"Navigation: Elevator"},
+      {"vis":true,"name":"Stairwell 3 (HSB G)","x":836,"y":345,"fav":false,"mapID":5,"layer":"Accessibility","desc":"Navigation: Staircase 3"},
+      {"vis":true,"name":"Exit 7 (HSB G)","x":911,"y":183,"fav":false,"mapID":5,"layer":"Accessibility","desc":"Navigation: Exit 7"},
+      {"vis":true,"name":"Exit 6 (HSB G)","x":613,"y":127,"fav":false,"mapID":5,"layer":"Accessibility","desc":"Navigation: Exit 6"},
+      {"vis":true,"name":"Exit 5 (HSB G)","x":385,"y":255,"fav":false,"mapID":5,"layer":"Accessibility","desc":"Navigation: Exit 5"},
+      {"vis":true,"name":"Stairwell 2 (HSB G)","x":235,"y":531,"fav":false,"mapID":5,"layer":"Accessibility","desc":"Navigation: Staircase 2"},
+      {"vis":true,"name":"Stairwell 1 (HSB G)","x":838,"y":613,"fav":false,"mapID":5,"layer":"Accessibility","desc":"Navigation: Staircase 1"}
+    ]
+  },
+  "Classrooms":{
+    "name": "Classrooms",
+    "POIList": [
+      {"vis":true,"name":"GenLab (HSB 13)","x":411,"y":473,"fav":false,"mapID":5,"layer":"Classrooms","desc":"Genlab Location: HSB 13"},
+      {"vis":true,"name":"GenLab (HSB 14)","x":548,"y":464,"fav":false,"mapID":5,"layer":"Classrooms","desc":"GenLab Location: HSB 14"},
+      {"vis":true,"name":"Genlab (HSB 16)","x":685,"y":465,"fav":false,"mapID":5,"layer":"Classrooms","desc":"GenLab Location: HSB 16"},
+      {"vis":true,"name":"Classroom (HSB 9)","x":297,"y":652,"fav":false,"mapID":5,"layer":"Classrooms","desc":"Lecture Hall: HSB 9 "},
+      {"vis":true,"name":"Classroom (HSB 11)","x":271,"y":429,"fav":false,"mapID":5,"layer":"Classrooms","desc":"Lecture Hall: HSB 9"},
+      {"vis":true,"name":"Classroom (HSB 35)","x":758,"y":147,"fav":false,"mapID":5,"layer":"Classrooms","desc":"Lecture Hall: HSB 35"},
+      {"vis":true,"name":"Classroom (HSB 40)","x":1186,"y":471,"fav":false,"mapID":5,"layer":"Classrooms","desc":"Lecture Hall: HSB 40"}
+    ]
+  },
+  "Washrooms":{
+    "name": "Washrooms",
+    "POIList": [
+      {"vis":true,"name":"Washroom (HSB 20)","x":837,"y":443,"fav":false,"mapID":5,"layer":"Washrooms","desc":"Women's Washroom\nBARRIER FREE"},
+      {"vis":true,"name":"Washroom (HSB 22)","x":833,"y":384,"fav":false,"mapID":5,"layer":"Washrooms","desc":"Men's Washroom\n BARRIER FREE"}
+    ]
+  },
+  "Eateries":{
+    "name": "Eateries",
+    "POIList": [
+      {"vis":true,"name":"Tim Hortons (HSB 15A)","x":575,"y":632,"fav":false,"mapID":5,"layer":"Eateries","desc":"Restaurant; Tim Hortons: Cafeteria to sit and eat"}
+    ]
+  },
+  "Custom":{
+    "name": "Custom",
+    "POIList": [
+    ]
+  }
+}

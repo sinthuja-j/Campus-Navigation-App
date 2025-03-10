@@ -1,0 +1,38 @@
+{
+  "name": "Health Sciences Building Third Floor",
+  "image": "HealthSci/HSBThirdFloor.png",
+  "sizeX": 1500,
+  "sizeY": 907,
+  "floorNum": 3,
+  "mapID": 7,
+  "Default":{
+    "name": "Default",
+    "POIList": [
+    ]
+  },
+  "Accessibility":{
+    "name": "Accessibility",
+    "POIList": [
+    ]
+  },
+  "Classrooms":{
+    "name": "Classrooms",
+    "POIList": [
+    ]
+  },
+  "Washrooms":{
+    "name": "Washrooms",
+    "POIList": [
+    ]
+  },
+  "Eateries":{
+    "name": "Eateries",
+    "POIList": [
+    ]
+  },
+  "Custom":{
+    "name": "Custom",
+    "POIList": [
+    ]
+  }
+}
