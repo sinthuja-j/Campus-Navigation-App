@@ -1,0 +1,41 @@
+{
+  "name": "Middlesex College Fourth Floor",
+  "image": "MiddlesexCollege/MCFourthFloor.png",
+  "sizeX": 3175,
+  "sizeY": 1919,
+  "floorNum": 4,
+  "mapID": 4,
+  "Default":{
+    "name": "Default",
+    "POIList": [
+    ]
+  },
+  "Accessibility":{
+    "name": "Accessibility",
+    "POIList": [
+      {"vis":true,"name":"Stairwell 3 (MC 4)","x":947,"y":476,"fav":false,"mapID":4,"layer":"Accessibility","desc":"Navigation: Staircase 3"},
+      {"vis":true,"name":"Elevator C (MC 4)","x":1259,"y":606,"fav":false,"mapID":4,"layer":"Accessibility","desc":"Navigation: Only Elevator that provides access to this floor"},
+      {"vis":true,"name":"Stairwell 5 (MC 4)","x":1421,"y":698,"fav":false,"mapID":4,"layer":"Accessibility","desc":"Navigation: Staircase 5"}
+    ]
+  },
+  "Classrooms":{
+    "name": "Classrooms",
+    "POIList": [
+    ]
+  },
+  "Washrooms":{
+    "name": "Washrooms",
+    "POIList": [
+    ]
+  },
+  "Eateries":{
+    "name": "Eateries",
+    "POIList": [
+    ]
+  },
+  "Custom":{
+    "name": "Custom",
+    "POIList": [
+    ]
+  }
+}

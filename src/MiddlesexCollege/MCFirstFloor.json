@@ -1,0 +1,53 @@
+{
+  "name": "Middlesex College First Floor",
+  "image": "MiddlesexCollege/MCFirstFloor.png",
+  "sizeX": 1500,
+  "sizeY": 907,
+  "floorNum": 1,
+  "mapID": 1,
+  "Default":{
+    "name": "Default",
+    "POIList": [
+    ]
+  },
+  "Accessibility":{
+    "name": "Accessibility",
+    "POIList": [
+      {"vis":true,"name":"Stairwell 1 (MC 1)","x":73,"y":685,"fav":false,"mapID":1,"layer":"Accessibility","desc":"Navigation: Staircase 1"},
+      {"vis":true,"name":"Stairwell 2 (MC 1)","x":333,"y":648,"fav":false,"mapID":1,"layer":"Accessibility","desc":"Navigation: Staircase 2"},
+      {"vis":true,"name":"Stairwell 3 (MC 1)","x":942,"y":494,"fav":false,"mapID":1,"layer":"Accessibility","desc":"Navigation: Staircase 3"},
+      {"vis":true,"name":"Staircase 5 (MC 1)","x":1444,"y":706,"fav":false,"mapID":1,"layer":"Accessibility","desc":"Navigation: Staircase 5"},
+      {"vis":true,"name":"Elevator C (MC 1)","x":1260,"y":601,"fav":false,"mapID":1,"layer":"Accessibility","desc":"Navigation: Elevator"},
+      {"vis":true,"name":"Exit 12 (MC 1)","x":891,"y":532,"fav":false,"mapID":1,"layer":"Accessibility","desc":"Navigation: Exit 12"},
+      {"vis":true,"name":"Elevator A (MC 1)","x":880,"y":428,"fav":false,"mapID":1,"layer":"Accessibility","desc":"Navigation: Elevator A"},
+      {"vis":true,"name":"Exit 1 (MC 1)","x":804,"y":568,"fav":false,"mapID":1,"layer":"Accessibility","desc":"Navigation: Main Entrance"},
+      {"vis":true,"name":"Elevator B (MC 1)","x":897,"y":480,"fav":false,"mapID":1,"layer":"Accessibility","desc":"Navigation: Elevator"},
+      {"vis":true,"name":"Exit 2 (MC 1)","x":347,"y":674,"fav":false,"mapID":1,"layer":"Accessibility","desc":"Navigation: Exit 2"}
+    ]
+  },
+  "Classrooms":{
+    "name": "Classrooms",
+    "POIList": [
+      {"vis":true,"name":"Classroom (MC 105B)","x":132,"y":542,"fav":false,"mapID":1,"layer":"Classrooms","desc":"Lecture hall: MC 105B"},
+      {"vis":true,"name":"Classroom (MC 110)","x":799,"y":295,"fav":false,"mapID":1,"layer":"Classrooms","desc":"Lecture hall: MC 110"}
+    ]
+  },
+  "Washrooms":{
+    "name": "Washrooms",
+    "POIList": [
+      {"vis":true,"name":"Washroom (MC 139)","x":1298,"y":642,"fav":false,"mapID":1,"layer":"Washrooms","desc":"Women's Washroom\nNON-ACCESSIBLE"},
+      {"vis":true,"name":"Washroom (MC 100)","x":645,"y":474,"fav":false,"mapID":1,"layer":"Washrooms","desc":"Men's Washroom\nNON ACCESSIBLE"}
+    ]
+  },
+  "Eateries":{
+    "name": "Eateries",
+    "POIList": [
+    ]
+  },
+  "Custom":{
+    "name": "Custom",
+    "POIList": [
+      {"vis":true,"name":"User 1: 2208 Class","x":805,"y":343,"fav":true,"mapID":1,"layer":"Custom","desc":"2208 Lecture; Tuesday and Thurdays's 12:30-2:30\nProfessor El Sakka\n"}
+    ]
+  }
+}

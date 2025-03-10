@@ -1,0 +1,11 @@
+{
+  "name": "Middlesex College",
+  "id": "MiddlesexCollege",
+  "maps":[
+    {"address": "MiddlesexCollege/MCGroundFloor.json"},
+    {"address": "MiddlesexCollege/MCFirstFloor.json"},
+    {"address": "MiddlesexCollege/MCSecondFloor.json"},
+    {"address": "MiddlesexCollege/MCThirdFloor.json"},
+    {"address": "MiddlesexCollege/MCFourthFloor.json"}
+  ]
+}
