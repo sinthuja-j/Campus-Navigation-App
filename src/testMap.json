@@ -1,0 +1,38 @@
+{
+  "name": "name",
+  "image": "test.png",
+  "sizeX": 1500,
+  "sizeY": 907,
+  "floorNum": 0,
+  "mapID": 0,
+  "Default":{
+    "name": "Default",
+    "POIList": [
+    ]
+  },
+  "Accessibility":{
+    "name": "Accessibility",
+    "POIList": [
+    ]
+  },
+  "Classrooms":{
+    "name": "Classrooms",
+    "POIList": [
+    ]
+  },
+  "Washrooms":{
+    "name": "Washrooms",
+    "POIList": [
+    ]
+  },
+  "Eateries":{
+    "name": "Eateries",
+    "POIList": [
+    ]
+  },
+  "Custom":{
+    "name": "Custom",
+    "POIList": [
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Test Building",
+  "id": null,
+  "maps":[
+    {"address": "testMap.json"}
+  ]
+}
